@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 - 👨 My name is Marcos Huck. 
-- 🎂 25 years old. 
+- 🎂 26 years old. 
 - 👨‍💻 FullStack Engineer at [Ekumenlabs](https://www.ekumenlabs.com).
 - 💻 I love computer science. A lot! 
 - 🔬 I like to study, do research, and invest my time in learning new ways of making things work.
